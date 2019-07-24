@@ -4,7 +4,7 @@ Dockerfile for nodejs + chrome.
 
 ## On docker hub
 
-https://hub.docker.com/r/potopakhin/node-crome
+https://hub.docker.com/r/potopakhin/node-chrome
 
 This [Dockerfile](/Dockerfile) contains:
 
